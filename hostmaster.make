@@ -41,55 +41,6 @@ projects[modalframe][type] = "module"
 projects[modalframe][version] = "1.6"
 projects[modalframe][subdir] = "contrib"
 
-projects[logintoboggan][type] = "module"
-projects[logintoboggan][version] = "1.6"
-projects[logintoboggan][subdir] = "contrib"
-
-projects[diff][type] = "module"
-projects[diff][version] = "2.1"
-projects[diff][subdir] = "contrib"
-
-projects[token][type] = "module"
-projects[token][version] = "1.15"
-projects[token][subdir] = "contrib"
-
-projects[features][type] = "module"
-projects[features][version] = "1.0"
-projects[features][subdir] = "contrib"
-
-projects[ubercart][type] = "module"
-projects[ubercart][version] = "2.4"
-projects[ubercart][subdir] = "contrib"
-
-projects[uc_checkout_tweaks][type] = "module"
-projects[uc_checkout_tweaks][version] = "1.x-dev"
-projects[uc_checkout_tweaks][subdir] = "contrib"
-
-projects[uc_recurring][type] = "module"
-projects[uc_recurring][version] = "2.0-alpha6"
-projects[uc_recurring][subdir] = "contrib"
-
-projects[uc_optional_checkout_review][type] = "module"
-projects[uc_optional_checkout_review][version] = "1.x-dev"
-projects[uc_optional_checkout_review][subdir] = "contrib"
-
-projects[uc_better_cart_links][type] = "module"
-projects[uc_better_cart_links][version] = "1.x-dev"
-projects[uc_better_cart_links][subdir] = "contrib"
-projects[uc_better_cart_links][patch][] = "http://drupal.org/files/issues/uc-better-links-fix.patch" ; http://drupal.org/node/1090092#comment-4245384
-
-projects[uc_hosting][type] = "module"
-projects[uc_hosting][version] = "1.0-beta1"
-projects[uc_hosting][subdir] = "contrib"
-
-
-
-; Custom modules
-projects[pearance_order][type] = "module"
-projects[pearance_order][subdir] = "custom"
-projects[pearance_order][download][type] = "git"
-projects[pearance_order][download][url] = "git://github.com/Pearance/pearance_order.git"
-
 
 
 ; Libraries
