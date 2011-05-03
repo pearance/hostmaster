@@ -76,7 +76,8 @@ projects[uc_optional_checkout_review][subdir] = "contrib"
 projects[uc_better_cart_links][type] = "module"
 projects[uc_better_cart_links][version] = "1.x-dev"
 projects[uc_better_cart_links][subdir] = "contrib"
-;projects[uc_better_cart_links][patch][] = "http://drupal.org/files/issues/uc-better-links-fix.patch" ; http://drupal.org/node/1090092#comment-4245384
+projects[uc_better_cart_links][patch][] = "http://drupal.org/files/issues/uc-better-links-fix.patch"
+; http://drupal.org/node/1090092#comment-4245384
 
 projects[uc_hosting][type] = "module"
 projects[uc_hosting][version] = "1.0-beta1"
